@@ -37,39 +37,11 @@ nav .nav-item{
 nav div.container{
     display:flex;
 }
+nav .nav-item.app{
+    font-size: 0.9 rem;
+    font-weight: 900;
+}
 nav div.nav-item{
     font-size: 1.2rem;
     font-weight:200 ;
-}
-header div.content{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-evenly;
-    height: 70%;
-    width: 80%;
-    margin: 0px auto;
-}
-
-header img.logo{
-    width:300px;
-}
-
-header h1{
-    font-size: 2.5 rem;
-    color:#fff;
-    font-weight: 400;
-}
-
-/* header content */
-
-header div.content{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background-color: #fff;
-    width:70%;
-    border-radius: 10px;
-
-
 }
